@@ -11,9 +11,10 @@
 
 // console.log(`SUM: ${sum}`);
 
-const adet = prompt("kac adet sayi uretmek istersiniz:?");
+// const adet = prompt("kac adet sayi uretmek istersiniz:?");
 
-for (let sayac = 1; sayac <= adet; sayac++) {
-  const rasgeleSayi = Math.round(Math.random() * 100);
-  console.log(`${sayac}. sayiniz : ${rasgeleSayi}`);
-}
+// for (let sayac = 1; sayac <= adet; sayac++) {
+//   const rasgeleSayi = Math.round(Math.random() * 100);
+//   console.log(`${sayac}. sayiniz : ${rasgeleSayi}`);
+// }
+
